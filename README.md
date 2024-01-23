@@ -4,7 +4,7 @@ Movie App developed with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Movie ticket booking platform to book movie tickets online. This system lets users browse available movies, choose showtimes, select seats, and securely purchase tickets from the comfort of their home. It simplifies the process of reserving seats for your favorite films, making moviegoing hassle-free
 
 # Screenshots in Android App:
 <img src="https://github.com/hoangphu239/CineTouch/assets/17998495/e5487749-98c2-4b34-a981-518d0085f2e9" width="300" height="600">
