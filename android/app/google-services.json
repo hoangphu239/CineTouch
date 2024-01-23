@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562426807797",
+    "project_id": "touch-cine",
+    "storage_bucket": "touch-cine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562426807797:android:c3e8233afa5898d152ccbc",
+        "android_client_info": {
+          "package_name": "com.example.demo_movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562426807797-5lmtpug0tg0desnev100pes1nvj2802g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_movie",
+            "certificate_hash": "ef0ab802e87ca36a039ba1d4cf3e36fd40c3029a"
+          }
+        },
+        {
+          "client_id": "562426807797-asq8mr3bbcphgbfk0q2a1e6ocmk0vc3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_movie",
+            "certificate_hash": "02a9d93ff0a6e295fe33fc921ff6ff324509418a"
+          }
+        },
+        {
+          "client_id": "562426807797-1fm5getouv28r4i2evukgc9ud5vtiu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNGJfNrIKssCfv0hFH3OO14Ui5DtUq76Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562426807797-1fm5getouv28r4i2evukgc9ud5vtiu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
